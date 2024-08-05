@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\models\\xulysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\models\\xulysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\models\\thucdonmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\models\\thucdonmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\models\\khuvucbanmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\models\\khuvucbanmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\models\\hoadonmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\models\\hoadonmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A21190-71A1-49E5-ABCA-11E97074744D}|WpfPageTransitions\\WpfPageTransitions.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\wpfpagetransitions\\pagetransition.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7A21190-71A1-49E5-ABCA-11E97074744D}|WpfPageTransitions\\WpfPageTransitions.csproj|solutionrelative:wpfpagetransitions\\pagetransition.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A21190-71A1-49E5-ABCA-11E97074744D}|WpfPageTransitions\\WpfPageTransitions.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\wpfpagetransitions\\pagetransitiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A21190-71A1-49E5-ABCA-11E97074744D}|WpfPageTransitions\\WpfPageTransitions.csproj|solutionrelative:wpfpagetransitions\\pagetransitiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\views\\cafe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\views\\cafe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\viewmodels\\thongkeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\viewmodels\\thongkeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\viewmodels\\taikhoanviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\viewmodels\\taikhoanviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\viewmodels\\banviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\viewmodels\\banviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|d:\\t\u1EA3i xu\u1ED1ng\\library\\wpf_cafeserver\\cafemvvm\\views\\cafe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD60D974-A3C9-413D-8A06-DF11103A0967}|CafeMVVM\\CafeMVVM.csproj|solutionrelative:cafemvvm\\views\\cafe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThucDonModels.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\ThucDonModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Models\\ThucDonModels.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\ThucDonModels.cs",
+              "RelativeToolTip": "CafeMVVM\\Models\\ThucDonModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:54:58.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhuVucBanModels.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\KhuVucBanModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Models\\KhuVucBanModels.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\KhuVucBanModels.cs",
+              "RelativeToolTip": "CafeMVVM\\Models\\KhuVucBanModels.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:54:55.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageTransition.xaml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\WpfPageTransitions\\PageTransition.xaml",
+              "RelativeDocumentMoniker": "WpfPageTransitions\\PageTransition.xaml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\WpfPageTransitions\\PageTransition.xaml",
+              "RelativeToolTip": "WpfPageTransitions\\PageTransition.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-05T15:53:19.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageTransitionType.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\WpfPageTransitions\\PageTransitionType.cs",
+              "RelativeDocumentMoniker": "WpfPageTransitions\\PageTransitionType.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\WpfPageTransitions\\PageTransitionType.cs",
+              "RelativeToolTip": "WpfPageTransitions\\PageTransitionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:53:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XuLySqlServer.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\XuLySqlServer.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Models\\XuLySqlServer.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\XuLySqlServer.cs",
+              "RelativeToolTip": "CafeMVVM\\Models\\XuLySqlServer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:51:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonModels.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\HoaDonModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Models\\HoaDonModels.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Models\\HoaDonModels.cs",
+              "RelativeToolTip": "CafeMVVM\\Models\\HoaDonModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:50:41.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongKeViewModels.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\ViewModels\\ThongKeViewModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\ViewModels\\ThongKeViewModels.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\ViewModels\\ThongKeViewModels.cs",
+              "RelativeToolTip": "CafeMVVM\\ViewModels\\ThongKeViewModels.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAswEsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:50:06.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaiKhoanViewModels.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\ViewModels\\TaiKhoanViewModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\ViewModels\\TaiKhoanViewModels.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\ViewModels\\TaiKhoanViewModels.cs",
+              "RelativeToolTip": "CafeMVVM\\ViewModels\\TaiKhoanViewModels.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:46:19.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BanViewModels.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "RelativeToolTip": "CafeMVVM\\ViewModels\\BanViewModels.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAcwHkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:45:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cafe.xaml.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Views\\Cafe.xaml.cs",
+              "RelativeDocumentMoniker": "CafeMVVM\\Views\\Cafe.xaml.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Views\\Cafe.xaml.cs",
+              "RelativeToolTip": "CafeMVVM\\Views\\Cafe.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAADwv04AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:40:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cafe.xaml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Views\\Cafe.xaml",
+              "RelativeDocumentMoniker": "CafeMVVM\\Views\\Cafe.xaml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\Library\\WPF_CafeServer\\CafeMVVM\\Views\\Cafe.xaml",
+              "RelativeToolTip": "CafeMVVM\\Views\\Cafe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-05T15:31:55.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
